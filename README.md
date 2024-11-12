@@ -2,14 +2,14 @@ Wilda rahma riskika_E1E122035
 
 AKURASI : 1.0
 
-Proyek Deteksi Demam Berdarah dengan Decision Tree 🌿🩺
+Dengue Fever Detection Project with Decision Tree 🌿🩺
 
-Proyek ini bertujuan untuk mendeteksi demam berdarah menggunakan algoritma Decision Tree. Dengan menganalisis data medis dan gejala yang terlihat, model ini dapat mengklasifikasikan apakah seorang pasien terinfeksi demam berdarah atau sehat. Keakuratan tinggi diharapkan untuk mendukung deteksi dini dan penanganan cepat.
+This project aims to detect dengue fever using Decision Tree algorithm. By analyzing medical data and visible symptoms, this model can classify whether a patient is infected with dengue or healthy. High accuracy is expected to support early detection and rapid treatment.
 
-🔍 Fitur Utama:
+🔍Main Features:
 
-Decision Tree: Algoritma yang digunakan untuk klasifikasi berdasarkan pola data medis.
-Deteksi Dini: Membantu mengenali gejala demam berdarah lebih cepat.
-Akurasi Tinggi: Sistem dirancang untuk mencapai akurasi optimal.
-🎯 Tujuan: Membantu tenaga medis dalam mendeteksi dan merespons kasus demam berdarah lebih cepat dan efektif.
+Decision Tree: An algorithm used for classification based on medical data patterns.
+Early Detection: Helps recognize dengue symptoms faster.
+High Accuracy: The system is designed to achieve optimal accuracy.
+🎯 Objective: Assist medical personnel in detecting and responding to dengue cases more quickly and effectively.
 
